@@ -33,7 +33,7 @@ end
 
 gem 'sass', '3.2.19' 
 gem 'bower-rails' # use Bower to manage front-end assets
-
+gem 'angular-rails-templates'
 gem "foreman"
 
 group :production, :staging do
